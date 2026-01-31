@@ -15,7 +15,7 @@
 
 | Category | Tools | Project Link |
 |----------|-------|--------------|
-| Web     | HTML, Css | [View Project](https://github.com/username/project1) |
+| kindergarten   | HTML, Css | [View Project](https://github.com/username/project1) |
 | AI      | HTML, Css,Tailwind | [View Project](https://github.com/username/project2) |
 
 

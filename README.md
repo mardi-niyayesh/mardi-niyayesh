@@ -17,5 +17,5 @@
 |----------|-------|--------------|
 | Web     | HTML, Css | [View Project](https://github.com/username/project1) |
 | AI      | HTML, HTML,Tailwind | [View Project](https://github.com/username/project2) |
-| Mobile  | Flutter | [View Project](https://github.com/username/project3) |
+
 

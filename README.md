@@ -16,6 +16,6 @@
 | Category | Tools | Project Link |
 |----------|-------|--------------|
 | kindergarten   | HTML, Css | [View Project](https://github.com/username/project1) |
-| game    | HTML, Css,Tailwind | [View Project]( http://gamepage.com/) |
+| game    | HTML, Css,Tailwind | [View Project]( http://gamepage.com) |
 
 

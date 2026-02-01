@@ -20,7 +20,7 @@
 | Car   | React ,Ts,Tailwind | [View Project](https://github.com/username/project1) |
 
 
-🔧 The tools I work with: VS 
+🔧 The tools I work with: 
 
 💻 VS Code  
 🎨 Figma  

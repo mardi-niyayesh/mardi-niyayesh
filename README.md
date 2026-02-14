@@ -17,7 +17,7 @@
 |----------|-------|--------------|
 | kindergarten   | HTML, Css | [View Project](https://github.com/username/project1) |
 | game    | HTML, Css,Tailwind | [View Project]( http://gamepage.com) |
-| Car   | React ,Ts,Tailwind | [View Project](https://github.com/username/project1) |
+| CarServic   | React ,Ts,Tailwind | [View Project](https://github.com/username/project1) |
 
 
 🔧 The tools I work with: 

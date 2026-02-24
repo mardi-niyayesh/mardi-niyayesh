@@ -26,7 +26,7 @@
 🎨 Figma  
 🌐 GitHub 
 
-📊 GitHub Stats
+📊 ## GitHub Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=mardi-niyayesh)](https://git.io/streak-stats)
 

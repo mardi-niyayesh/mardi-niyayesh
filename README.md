@@ -1,9 +1,11 @@
-<img src="https://media.giphy.com/media/MDNkR9IprSMF0jDwqo/giphy.gif" width="150">
+<p align="center">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="150" alt="cute cat">
+</p>
 
 ## 👋 Hi, I'm Niayesh Mardi
 
 💻 Front-End Developer  
-🎨 Focused on building modern, responsive, and user-friendly interface
+🎨 Focused on building modern, responsive, and user-friendly interfaces
 
 
 

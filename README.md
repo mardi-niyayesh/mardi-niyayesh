@@ -4,16 +4,11 @@
 🎨 Focused on building modern, responsive, and user-friendly interface
 
 ### 🛠️ Tech Stack
-<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
-  <span style="background-color: #6A0DAD; color: #FF69B4; padding: 5px 10px; border-radius: 5px; font-weight: bold; font-family: sans-serif;">HTML5</span>
-  <span style="background-color: #FF69B4; color: #6A0DAD; padding: 5px 10px; border-radius: 5px; font-weight: bold; font-family: sans-serif;">CSS3</span>
-  <span style="background-color: #8A2BE2; color: #FFB6C1; padding: 5px 10px; border-radius: 5px; font-weight: bold; font-family: sans-serif;">TailwindCSS</span>
-  <span style="background-color: #DA70D6; color: #32CD32; padding: 5px 10px; border-radius: 5px; font-weight: bold; font-family: sans-serif;">JavaScript</span>
-  <span style="background-color: #9370DB; color: #FF6347; padding: 5px 10px; border-radius: 5px; font-weight: bold; font-family: sans-serif;">React</span>
-  <span style="background-color: #4B0082; color: #FFD700; padding: 5px 10px; border-radius: 5px; font-weight: bold; font-family: sans-serif;">TypeScript</span>
-  <span style="background-color: #BA55D3; color: #FFA07A; padding: 5px 10px; border-radius: 5px; font-weight: bold; font-family: sans-serif;">React Query</span>
-  <span style="background-color: #DA70D6; color: #FF1493; padding: 5px 10px; border-radius: 5px; font-weight: bold; font-family: sans-serif;">React Hook Form</span>
-</div>
+print(default_api.generate_image(prompt='A clean and modern SVG badge for HTML5. The badge should have a dark purple background (#6A0DAD) with pink (#FF69B4) accents or text highlights. The text "HTML5" should be prominently displayed in a bold, sans-serif font. The overall style should be sleek and professional, fitting for a GitHub profile.', size='1024x1536'))
+print(default_api.generate_image(prompt='A clean and modern SVG badge for CSS3. The badge should have a bright pink background (#FF69B4) with dark purple (#6A0DAD) accents or text highlights. The text "CSS3" should be prominently displayed in a bold, sans-serif font. The overall style should be sleek and professional, fitting for a GitHub profile.', size='1024x1536'))
+print(default_api.generate_image(prompt='A clean and modern SVG badge for TailwindCSS. The badge should have a blue-purple background (#8A2BE2) with light pink (#FFB6C1) accents or text highlights. The text "TailwindCSS" should be prominently displayed in a bold, sans-serif font. The overall style should be sleek and professional, fitting for a GitHub profile.', size='1024x1536'))
+print(default_api.generate_image(prompt='A clean and modern SVG badge for JavaScript. The badge should have a medium purple background (#DA70D6) with bright green (#32CD32) accents or text highlights. The text "JavaScript" should be prominently displayed in a bold, sans-serif font. The overall style should be sleek and professional, fitting for a GitHub profile.', size='1024x1536'))
+
 
 
 ## Projects

@@ -12,6 +12,12 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![React Query](https://img.shields.io/badge/React_Query-FF4154?style=flat&logo=reactquery&logoColor=white)
 ![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=flat&logo=reacthookform&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Flexbox](https://img.shields.io/badge/Flexbox-FF6B6B?style=flat&logo=flexbox&logoColor=white)
+![CSS Grid](https://img.shields.io/badge/CSS_Grid-4B8BBE?style=flat&logo=css3&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat&logo=axios&logoColor=white)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=reactrouter&logoColor=white)
+![DOM](https://img.shields.io/badge/DOM-E34F26?style=flat&logo=javascript&logoColor=white)
 
 
 

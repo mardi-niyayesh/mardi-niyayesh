@@ -5,11 +5,6 @@
 </p>
 
 
-## 👋 Hi, I'm Niayesh Mardi
-I'm a Front-End Developer with a passion for building modern, responsive, and user-friendly interfaces. I love working with React and JavaScript
-
-
-
 ## 🛠️ Tech Stack
 
 <p align="center">

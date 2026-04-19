@@ -4,12 +4,17 @@
 🎨 Focused on building modern, responsive, and user-friendly interface
 
 ### 🛠️ Tech Stack
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
+  <span style="background-color: #6A0DAD; color: #FF69B4; padding: 5px 10px; border-radius: 5px; font-weight: bold; font-family: sans-serif;">HTML5</span>
+  <span style="background-color: #FF69B4; color: #6A0DAD; padding: 5px 10px; border-radius: 5px; font-weight: bold; font-family: sans-serif;">CSS3</span>
+  <span style="background-color: #8A2BE2; color: #FFB6C1; padding: 5px 10px; border-radius: 5px; font-weight: bold; font-family: sans-serif;">TailwindCSS</span>
+  <span style="background-color: #DA70D6; color: #32CD32; padding: 5px 10px; border-radius: 5px; font-weight: bold; font-family: sans-serif;">JavaScript</span>
+  <span style="background-color: #9370DB; color: #FF6347; padding: 5px 10px; border-radius: 5px; font-weight: bold; font-family: sans-serif;">React</span>
+  <span style="background-color: #4B0082; color: #FFD700; padding: 5px 10px; border-radius: 5px; font-weight: bold; font-family: sans-serif;">TypeScript</span>
+  <span style="background-color: #BA55D3; color: #FFA07A; padding: 5px 10px; border-radius: 5px; font-weight: bold; font-family: sans-serif;">React Query</span>
+  <span style="background-color: #DA70D6; color: #FF1493; padding: 5px 10px; border-radius: 5px; font-weight: bold; font-family: sans-serif;">React Hook Form</span>
+</div>
+
 
 ## Projects
 

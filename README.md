@@ -72,11 +72,7 @@
   </a>
 </p>
 
-🔧 The tools I work with: 
 
-💻 VS Code  
-🎨 Figma  
-🌐 GitHub 
 
  ## GitHub Stats
 

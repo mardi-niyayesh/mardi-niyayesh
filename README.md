@@ -65,7 +65,29 @@
   </a>
 </p>
 
+## 📱 Feel free to reach out!
 
+> 💬 I'd love to hear from you - whether it's about collaboration, a question, or just to say hi!
+
+<p align="center">
+  <a href="mailto:mardiniyayesh@gmail.com">
+    <img src="https://img.shields.io/badge/Email-mardiniyayesh@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</p>
+
+
+
+<p align="center">
+  <a href="https://t.me/Niyayeshh-m">
+    <img src="https://img.shields.io/badge/Telegram-@Niyayeshh--m-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://wa.me/989945812125">
+    <img src="https://img.shields.io/badge/WhatsApp-+98%20921%20062%209512-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+  </a>
+</p>
 
 🔧 The tools I work with: 
 

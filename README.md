@@ -4,10 +4,12 @@
 🎨 Focused on building modern, responsive, and user-friendly interface
 
 ### 🛠️ Tech Stack
-print(default_api.generate_image(prompt='A clean and modern SVG badge for HTML5. The badge should have a dark purple background (#6A0DAD) with pink (#FF69B4) accents or text highlights. The text "HTML5" should be prominently displayed in a bold, sans-serif font. The overall style should be sleek and professional, fitting for a GitHub profile.', size='1024x1536'))
-print(default_api.generate_image(prompt='A clean and modern SVG badge for CSS3. The badge should have a bright pink background (#FF69B4) with dark purple (#6A0DAD) accents or text highlights. The text "CSS3" should be prominently displayed in a bold, sans-serif font. The overall style should be sleek and professional, fitting for a GitHub profile.', size='1024x1536'))
-print(default_api.generate_image(prompt='A clean and modern SVG badge for TailwindCSS. The badge should have a blue-purple background (#8A2BE2) with light pink (#FFB6C1) accents or text highlights. The text "TailwindCSS" should be prominently displayed in a bold, sans-serif font. The overall style should be sleek and professional, fitting for a GitHub profile.', size='1024x1536'))
-print(default_api.generate_image(prompt='A clean and modern SVG badge for JavaScript. The badge should have a medium purple background (#DA70D6) with bright green (#32CD32) accents or text highlights. The text "JavaScript" should be prominently displayed in a bold, sans-serif font. The overall style should be sleek and professional, fitting for a GitHub profile.', size='1024x1536'))
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) 
 
 
 

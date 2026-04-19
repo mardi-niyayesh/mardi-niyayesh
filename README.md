@@ -1,3 +1,5 @@
+<img src="https://media.giphy.com/media/MDNkR9IprSMF0jDwqo/giphy.gif" width="150">
+
 ## 👋 Hi, I'm Niayesh Mardi
 
 💻 Front-End Developer  

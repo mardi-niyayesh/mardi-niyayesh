@@ -4,11 +4,38 @@
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="300" alt="cute cat">
 </p>
 
+## 💻 My Info
 
 ## 👋 Hi, I'm Niayesh Mardi
 
-💻 **Front-End Developer**  
-🎨 Building modern, responsive & user-friendly interfaces
+
+#### 📤 Output :
+
+```json
+{
+  "name": "Niayesh Mardi",
+  "role": "Front-End Developer",
+  "born": "1381",
+  "description": "Hi! I'm Niayesh Mardi. I'm a Front-End Developer with a passion for building modern, responsive, and user-friendly interfaces. I love working with React and JavaScript.",
+  "skills": [
+    "JavaScript 💛",
+    "TypeScript 🟦",
+    "React ⚛️",
+    "Tailwind CSS 🎨",
+    "HTML 📄",
+    "CSS 🎨"
+  ],
+  "tools": [
+    "Git 🛠️",
+    "GitHub 🐱",
+    "Axios 📡",
+    "React Query 🔄",
+    "React Router 🧭",
+    "React Hook Form 📝"
+  ],
+  "currently": "Learning advanced React patterns",
+  "interests": "Coding, UI/UX Design, Building beautiful interfaces 🚀"
+}
 
 
 

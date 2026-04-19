@@ -56,13 +56,11 @@
   <a href="mailto:mardiniyayesh@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail">
   </a>
-  <a href="mailto:homow_dev@proton.me">
-    <img src="https://img.shields.io/badge/ProtonMail-6D4AFF?style=flat&logo=protonmail&logoColor=white" alt="ProtonMail">
-  </a>
+
   <a href="https://t.me/Niyayeshh-m">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" alt="Telegram">
   </a>
-  <a href="https://wa.me/989210629512">
+  <a href="https://wa.me/989945812125">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white" alt="WhatsApp">
   </a>
 </p>

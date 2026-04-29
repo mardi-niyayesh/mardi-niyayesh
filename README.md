@@ -55,10 +55,12 @@
 </p>
 
 
-## GitHub Streak Stats
+
+
+ ## GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=mardi-niyayesh&theme=tokyonight&background=0D1117&ring=00FFFF&fire=FF6E96&currStreakNum=00FFFF&sideNums=00FFFF&currStreakLabel=FF6E96&sideLabels=FF6E96&dates=AAAAAA" />
+  <img src="https://streak-stats.demolab.com/?user=mardi-niyayesh" />
 </p>
 
 

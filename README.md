@@ -55,12 +55,12 @@
 </p>
 
 
- ## GitHub Stats
+## GitHub Streak Stats
 
 <p align="center">
-<img src="https://streak-stats.demolab.com/?user=mardi-niyayesh&background=000000&ring=00FFAA&fire=00FFAA&currStreakLabel=00FFAA" />
+  <img src="https://streak-stats.demolab.com/?user=mardi-niyayesh&theme=tokyonight&background=0D1117&ring=00FFFF&fire=FF6E96&currStreakNum=00FFFF&sideNums=00FFFF&currStreakLabel=FF6E96&sideLabels=FF6E96&dates=AAAAAA" />
+</p>
 
-    </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mardi-niyayesh&layout=compact&theme=react" />

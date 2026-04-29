@@ -66,4 +66,10 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mardi-niyayesh&layout=compact&theme=react" />
 </p>
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=mardi-niyayesh&show_icons=true&theme=react"
+    alt="GitHub stats card"
+  />
+</p>
 

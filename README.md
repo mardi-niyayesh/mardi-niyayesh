@@ -58,7 +58,8 @@
  ## GitHub Stats
 
 <p align="center">
-<img src="https://streak-stats.demolab.com/?user=mardi-niyayesh&theme=dracula" />
+<img src="https://streak-stats.demolab.com/?user=mardi-niyayesh&background=000000&ring=00FFAA&fire=00FFAA&currStreakLabel=00FFAA" />
+
     </p>
 
 <p align="center">

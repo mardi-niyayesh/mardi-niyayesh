@@ -53,7 +53,7 @@
 
 ## 📬 Connect With Me
 
-<p align="center">
+<p align="left">
   <a href="mailto:mardiniyayesh@gmail.com">
     <img src="https://img.shields.io/badge/Email-mardiniyayesh@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
@@ -61,13 +61,13 @@
 
 
 
-<p align="center">
+<p align="left">
   <a href="https://t.me/Niyayeshh-m">
     <img src="https://img.shields.io/badge/Telegram-@Niyayeshh--m-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
   </a>
 </p>
 
-<p align="center">
+<p align="left">
   <a href="https://wa.me/989945812125">
     <img src="https://img.shields.io/badge/WhatsApp-+98%20994%20581%202125-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
   </a>
@@ -78,15 +78,15 @@
 
  ## GitHub Stats
 
-<p align="center">
+<p align="left">
   <img src="https://streak-stats.demolab.com/?user=mardi-niyayesh" />
 </p>
 
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mardi-niyayesh&layout=compact&theme=react" />
 </p>
-<p align="center">
+<p align="left">
   <img
     src="https://github-readme-stats.vercel.app/api?username=mardi-niyayesh&show_icons=true&theme=react"
     alt="GitHub stats card"

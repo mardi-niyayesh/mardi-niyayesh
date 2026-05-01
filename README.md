@@ -1,6 +1,6 @@
 
 
-<p align="center">
+<p align="left">
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="350" alt="cute cat">
 </p>
 
@@ -74,7 +74,7 @@
  ## GitHub Stats
 
 <p align="left">
-  <img src="https://streak-stats.demolab.com/?user=mardi-niyayesh" />
+  <img src="https://streak-stats.demolab.com/?user=mardi-niyayesh&theme=dark" />
 </p>
 
 

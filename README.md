@@ -1,6 +1,6 @@
 <div align="left">
   
-👋 Hi ,I'm Niyayesh
+👋 Hi ,I'm Niyayesh :)
 *I might be a front-end developer*
 
 </div>

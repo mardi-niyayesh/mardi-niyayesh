@@ -73,11 +73,5 @@
   <img src="https://streak-stats.demolab.com/?user=mardi-niyayesh&theme=dark" />
 </p>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mardi-niyayesh&layout=compact&theme=react" />
-</p>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=mardi-niyayesh&show_icons=true&theme=react" />
-</p>
 

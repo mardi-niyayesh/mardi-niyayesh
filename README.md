@@ -78,6 +78,8 @@
   <br/>
 
   <img src="https://streak-stats.demolab.com/?user=mardi-niyayesh&theme=dark" />
+
+  <img src="https://github-profile-trophy.vercel.app/?username=mardi-niyayesh&theme=darkhub" />
 </p>
 
 

@@ -78,14 +78,10 @@
 <p align="left">
   <img src="https://streak-stats.demolab.com/?user=mardi-niyayesh&theme=dark" />
 
-<p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mardi-niyayesh&theme=github_dark" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mardi-niyayesh&theme=github_dark" width="49%" />
-</p>
+<p align="center">
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mardi-niyayesh&theme=dark&hide_border=true" />
-</p>>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mardi-niyayesh&theme=github_dark" width="95%" />
+</p>
 
 
 

@@ -79,8 +79,7 @@
   <img src="https://streak-stats.demolab.com/?user=mardi-niyayesh&theme=dark" />
 
 <p align="center">
-
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mardi-niyayesh&theme=github_dark" width="95%" />
+  <img src="https://streak-stats.demolab.com/?user=mardi-niyayesh&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
 </p>
 
 

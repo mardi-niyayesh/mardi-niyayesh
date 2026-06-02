@@ -73,11 +73,19 @@
   </a>
 </p>
 
-## GitHub Stats
+## 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://streak-stats.demolab.com/?user=mardi-niyayesh&theme=dark" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mardi-niyayesh&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&icon_color=58a6ff" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mardi-niyayesh&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" width="49%" />
+</p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=mardi-niyayesh&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mardi-niyayesh&theme=github-dark&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff" width="95%" />
 </p>
 
 

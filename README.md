@@ -79,10 +79,5 @@
   <img src="https://streak-stats.demolab.com/?user=mardi-niyayesh&theme=dark" />
   <p/>
 
-<picture>
-  <source srcset="https://raw.githubusercontent.com/username/repo_name/main/output/stats_commits.svg#gh-dark-mode-only" media="(prefers-color-scheme: dark)">
-  <img src="https://raw.githubusercontent.com/username/repo_name/main/output/stats_commits.svg">
-</picture>
-
 
 

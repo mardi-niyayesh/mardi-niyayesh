@@ -77,9 +77,11 @@
 
 <p align="left">
   <img src="https://streak-stats.demolab.com/?user=mardi-niyayesh&theme=dark" />
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=mardi-niyayesh&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
+  <p/>
+<p align="left">
+  
+  <img src="https://img.shields.io/github/followers/mardi-niyayesh?style=for-the-badge&logo=github&color=58a6ff&labelColor=0d1117" />
+  <img src="https://img.shields.io/github/stars/mardi-niyayesh?style=for-the-badge&logo=github&color=58a6ff&labelColor=0d1117" />
 </p>
 
 

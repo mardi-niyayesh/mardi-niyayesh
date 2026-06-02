@@ -76,8 +76,7 @@
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mardi-niyayesh&theme=github_dark" width="95%" />
-</p>
+  <img src="https://streak-stats.demolab.com/?user=mardi-niyayesh&theme=dark" />
 
 <p align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mardi-niyayesh&theme=github_dark" width="49%" />

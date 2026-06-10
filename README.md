@@ -10,7 +10,7 @@
 </p>
 
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 ### 🏷️ Markup Languages
 

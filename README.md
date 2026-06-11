@@ -1,7 +1,7 @@
 <div align="left">
   
 👋 Hi ,I'm Niyayesh :)
-*I might be a front-end developer:) *
+I might be a front-end developer:) 
 
 </div>
 

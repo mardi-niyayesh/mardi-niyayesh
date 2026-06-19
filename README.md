@@ -9,7 +9,8 @@ I might be a front-end developer:)
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="350" alt="cute cat">
 </p>
 
-https://raw.githubusercontent.com/trinib/trinib/main/README.md
+![Uploading 213910842-5a320d6b-e48f-4d41-a901-0e6a357e8dae.gif…]()
+
 
 ## 🛠️ Tech Stack
 

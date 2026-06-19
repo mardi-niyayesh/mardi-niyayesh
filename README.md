@@ -3,7 +3,7 @@
 👋 Hi ,I'm Niyayesh :)
 I might be a front-end developer:) 
 
-<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="400" alt="Girl Programmer">
+<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="800" alt="Girl Programmer">
 
 
 ## 🛠️ Tech Stack

@@ -11,7 +11,7 @@ I might be a front-end developer:)
 ر
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding">
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDZkM3Z0a2t1dGJhbGZ6Z3d3eGZ6cHB3a2Z6cGd6Z3Z6cGZ6cGd6ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LmNwrBk2F5rP4/giphy.gif" width="400" alt="Girl Coding">
+<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="400" alt="Girl Programmer">
 
 ## 🛠️ Tech Stack
 

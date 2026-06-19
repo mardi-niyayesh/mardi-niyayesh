@@ -9,9 +9,7 @@ I might be a front-end developer:)
 </p>
 
 ر
-<p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Coding Cat" width="400">
-</p>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding">
 
 ## 🛠️ Tech Stack
 

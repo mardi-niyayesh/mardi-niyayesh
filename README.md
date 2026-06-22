@@ -1,7 +1,7 @@
 <div align="left">
   
 👋 Hi ,I'm Niyayesh :)
-I might be a front-end developer:) 
+I might be a front-end developer .
 
 <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="700" alt="Girl Programmer">
 

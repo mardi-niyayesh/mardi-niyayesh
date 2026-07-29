@@ -34,6 +34,7 @@ I might be a front-end developer .
 <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" height="35" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white" height="35" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" height="35" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logo=zustand&logoColor=white" height="35" />&nbsp;&nbsp;
 
 ---
 

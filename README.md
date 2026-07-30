@@ -6,6 +6,8 @@ I might be a front-end developer .
 <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="700" alt="Girl Programmer">
 
 
+
+
 ## 🛠️ Tech Stack
 
 ### 🏷️ Markup Languages
@@ -59,6 +61,7 @@ I might be a front-end developer .
   &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" height="35" />
 </div>
+
 
 
 

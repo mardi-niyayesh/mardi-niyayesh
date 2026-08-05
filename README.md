@@ -2,9 +2,9 @@
   
 👋 Hi ,I'm Niyayesh :)
 I might be a front-end developer .
-
-<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="700" alt="Girl Programmer">
-
+<p align="center">
+<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="700" alt="Girl Programmer ">
+</p>
 
 
 
@@ -73,10 +73,9 @@ I might be a front-end developer .
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
 </p>
-```
 
 
-<p align="left"> <a href="https://t.me/Niyayeshh-m"> <img src="https://img.shields.io/badge/Telegram-@Niyayeshh--m-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"> </a> </p>
+<p align="center"> <a href="https://t.me/Niyayeshh-m"> <img src="https://img.shields.io/badge/Telegram-@Niyayeshh--m-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"> </a> </p>
 
 
 

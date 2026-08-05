@@ -76,11 +76,7 @@ I might be a front-end developer .
 ```
 
 
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://streak-stats.demolab.com/?user=mardi-niyayesh&theme=dark" />
-  <p/>
+<p align="left"> <a href="https://t.me/Niyayeshh-m"> <img src="https://img.shields.io/badge/Telegram-@Niyayeshh--m-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"> </a> </p>
 
 
 

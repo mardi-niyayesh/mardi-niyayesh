@@ -76,8 +76,14 @@ I might be a front-end developer .
 
 # 📊 GitHub Stats
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mardi-niyayesh&style=for-the-badge&color=blue" />
-  <img src="https://img.shields.io/github/followers/mardi-niyayesh?style=for-the-badge" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mardi-niyayesh&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=mardi-niyayesh&theme=tokyonight&hide_border=true" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mardi-niyayesh&theme=tokyonight" />
 </p>
 
 

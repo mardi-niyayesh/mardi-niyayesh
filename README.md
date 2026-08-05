@@ -75,11 +75,9 @@ I might be a front-end developer .
 </p>
 
 # 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-dark" />
 </p>
-```
 
 
 

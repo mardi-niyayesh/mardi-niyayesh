@@ -76,7 +76,8 @@ I might be a front-end developer .
 
 # 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-dark" />
+  <img src="https://komarev.com/ghpvc/?username=mardi-niyayesh&style=for-the-badge&color=blue" />
+  <img src="https://img.shields.io/github/followers/mardi-niyayesh?style=for-the-badge" />
 </p>
 
 

@@ -32,6 +32,13 @@ I might be a front-end developer .
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
 </p>
 
+## 🎨 UI Components
+
+<p align="center">
+  <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" />
+</p>
+
+
 ## 📦 State Management
 
 <p align="center">
@@ -63,7 +70,7 @@ I might be a front-end developer .
 
 ---
 
-# 📬 Connect With Me
+# 📬 Contact  With Me
 
 <p align="center">
   <a href="mailto:mardiniyayesh@gmail.com">

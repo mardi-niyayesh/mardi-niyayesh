@@ -52,6 +52,13 @@ I might be a front-end developer .
   <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" />
 </p>
 
+## 🔌 API & GraphQL
+
+<p align="center">
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apollo_Client-311C87?style=for-the-badge&logo=apollographql&logoColor=white" />
+</p>
+
 ## 📝 Forms & Validation
 
 <p align="center">

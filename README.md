@@ -1,7 +1,8 @@
 <div align="left">
   
 👋 Hi ,I'm Niyayesh :)
-I might be a front-end developer .
+I'm a Frontend Developer focused on React, Next.js and TypeScript
+
 <p align="center">
 <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="700" alt="Girl Programmer ">
 </p>

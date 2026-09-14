@@ -37,6 +37,7 @@ I'm a Frontend Developer focused on React, Next.js and TypeScript
 
 <p align="center">
   <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" />
+  <img src="https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white" />
 </p>
 
 

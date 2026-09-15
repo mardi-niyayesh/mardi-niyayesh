@@ -17,6 +17,7 @@ I'm a Frontend Developer focused on React, Next.js and TypeScript
   <img src="https://img.shields.io/badge/Flexbox-FF6B6B?style=for-the-badge" />
   <img src="https://img.shields.io/badge/CSS_Grid-4B8BBE?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </p>
 
 ## 💻 Languages

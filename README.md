@@ -41,6 +41,13 @@ I'm a Frontend Developer focused on React, Next.js and TypeScript
   <img src="https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white" />
 </p>
 
+## 🎯 UI/UX & Design
+
+<p align="center">
+  <img src="https://img.shields.io/badge/UI%2FUX-FF6B35?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Responsive_Design-4CAF50?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+</p>
 
 ## 📦 State Management
 

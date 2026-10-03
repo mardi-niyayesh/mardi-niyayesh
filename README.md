@@ -53,6 +53,7 @@ I'm a Frontend Developer focused on React, Next.js and TypeScript
 
 <p align="center">
   <img src="https://img.shields.io/badge/Zustand-443E38?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/React_Context-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
 </p>
 
 ## 🔄 Data Fetching
